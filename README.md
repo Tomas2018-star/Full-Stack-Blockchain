@@ -83,9 +83,8 @@ Built With [Node.js](https://nodejs.org/en/), JavaScript, [Express](https://expr
 ## Project Challeneges and Further Enhancements
 
 ##### I want to extend some of the below ideas in the future to make it more effective.
- 
 
-1) Download the Blockchain to the File System:
+1)Download the Blockchain to the File System:
 
 Currently, the blockchain completely lives in the JavaScript memory. Luckily, as long as there is one node in the system running, a copy of the current blockchain is stored. 
 But if all nodes go down, the blockchain progress will die. One solution is to implement blockchain backups by adding a feature to download the blockchain to the file system. 
