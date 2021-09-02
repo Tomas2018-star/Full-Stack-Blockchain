@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/krishnakaushik25/Full-Stack-Blockchain">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="600" height="350">
   </a>
 
   <h3 align="center">A complete blockchain-powered cryptocurrency Full-Stack Application</h3>
