@@ -159,5 +159,6 @@ Any contributions you make are **greatly appreciated**.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/Blockchain.png
-[product-work-flow]: images/Blockchain-work.jpg)
+
+[product-screenshot]: images/blockchain.png
+[product-work-flow]: images/Blockchain-work.jpg
