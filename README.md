@@ -152,7 +152,7 @@ Any contributions you make are **greatly appreciated**.
 ## Acknowledgements
 * [Awesome github repo of BLockchain implementation in javascript](https://github.com/yjjnls/awesome-blockchain#implementation-of-blockchain)
 * [The complete Youtube series of Creating a blockchain with Javascript with Angular front end](https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4&index=1)
-* [Github reference of David Katz cryptochain](https://github.com/15Dkatz/cryptochain)
+* [Huge thanks to this Github repo of David Katz cryptochain](https://github.com/15Dkatz/cryptochain)
 
 
 
