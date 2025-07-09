@@ -3,7 +3,7 @@ const redis = require('redis');
 const CHANNELS = {
   TEST: 'TEST',
   BLOCKCHAIN: 'BLOCKCHAIN',
-  TRANSACTION: 'TRANSACTION'
+  TRANSACTION: 'TRANSACTION' //---------11--------//
 };
 
 class PubSub {
